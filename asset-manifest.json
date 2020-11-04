@@ -4,13 +4,13 @@
     "static/js/0.454e5a78.chunk.js.map": "/alphaswap/static/js/0.454e5a78.chunk.js.map",
     "static/js/1.ab9e1769.chunk.js": "/alphaswap/static/js/1.ab9e1769.chunk.js",
     "static/js/1.ab9e1769.chunk.js.map": "/alphaswap/static/js/1.ab9e1769.chunk.js.map",
-    "main.js": "/alphaswap/static/js/main.75a4f972.chunk.js",
-    "main.js.map": "/alphaswap/static/js/main.75a4f972.chunk.js.map",
+    "main.js": "/alphaswap/static/js/main.3d524ba2.chunk.js",
+    "main.js.map": "/alphaswap/static/js/main.3d524ba2.chunk.js.map",
     "runtime-main.js": "/alphaswap/static/js/runtime-main.14cb3728.js",
     "runtime-main.js.map": "/alphaswap/static/js/runtime-main.14cb3728.js.map",
     "static/css/4.ec26f2d9.chunk.css": "/alphaswap/static/css/4.ec26f2d9.chunk.css",
-    "static/js/4.7917ebbc.chunk.js": "/alphaswap/static/js/4.7917ebbc.chunk.js",
-    "static/js/4.7917ebbc.chunk.js.map": "/alphaswap/static/js/4.7917ebbc.chunk.js.map",
+    "static/js/4.7d570d26.chunk.js": "/alphaswap/static/js/4.7d570d26.chunk.js",
+    "static/js/4.7d570d26.chunk.js.map": "/alphaswap/static/js/4.7d570d26.chunk.js.map",
     "static/js/5.111c7045.chunk.js": "/alphaswap/static/js/5.111c7045.chunk.js",
     "static/js/5.111c7045.chunk.js.map": "/alphaswap/static/js/5.111c7045.chunk.js.map",
     "static/js/6.3bcf9a38.chunk.js": "/alphaswap/static/js/6.3bcf9a38.chunk.js",
@@ -22,10 +22,10 @@
     "static/js/9.dc9dfb72.chunk.js": "/alphaswap/static/js/9.dc9dfb72.chunk.js",
     "static/js/9.dc9dfb72.chunk.js.map": "/alphaswap/static/js/9.dc9dfb72.chunk.js.map",
     "index.html": "/alphaswap/index.html",
-    "precache-manifest.bcbacc13aba8f91b8cc484cda25e372e.js": "/alphaswap/precache-manifest.bcbacc13aba8f91b8cc484cda25e372e.js",
+    "precache-manifest.88996685ac71db475f564cffd6c5eb40.js": "/alphaswap/precache-manifest.88996685ac71db475f564cffd6c5eb40.js",
     "service-worker.js": "/alphaswap/service-worker.js",
     "static/css/4.ec26f2d9.chunk.css.map": "/alphaswap/static/css/4.ec26f2d9.chunk.css.map",
-    "static/js/4.7917ebbc.chunk.js.LICENSE.txt": "/alphaswap/static/js/4.7917ebbc.chunk.js.LICENSE.txt",
+    "static/js/4.7d570d26.chunk.js.LICENSE.txt": "/alphaswap/static/js/4.7d570d26.chunk.js.LICENSE.txt",
     "static/js/5.111c7045.chunk.js.LICENSE.txt": "/alphaswap/static/js/5.111c7045.chunk.js.LICENSE.txt",
     "static/js/9.dc9dfb72.chunk.js.LICENSE.txt": "/alphaswap/static/js/9.dc9dfb72.chunk.js.LICENSE.txt",
     "static/media/inter.css": "/alphaswap/static/media/Inter.var.4b976905.woff2",
@@ -62,7 +62,7 @@
   "entrypoints": [
     "static/js/runtime-main.14cb3728.js",
     "static/css/4.ec26f2d9.chunk.css",
-    "static/js/4.7917ebbc.chunk.js",
-    "static/js/main.75a4f972.chunk.js"
+    "static/js/4.7d570d26.chunk.js",
+    "static/js/main.3d524ba2.chunk.js"
   ]
 }
